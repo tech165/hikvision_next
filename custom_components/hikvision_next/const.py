@@ -91,6 +91,7 @@ EVENTS = {
 
 EVENTS_ALTERNATE_ID = {
     "vmd": "motiondetection",
+    "pir": "motiondetection",
     "shelteralarm": "tamperdetection",
     "VMDHumanVehicle": "motiondetection",
 }
